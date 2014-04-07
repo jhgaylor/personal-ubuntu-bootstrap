@@ -15,3 +15,7 @@ Installs
 * virtualbox
 * vagrant
 * java
+* sublime text 2 [sym links, unity desktop icon](http://www.technoreply.com/how-to-install-sublime-text-2-on-ubuntu-12-04-unity/)
+* chrome
+* legit
+* [configure git](https://help.github.com/articles/set-up-git)
